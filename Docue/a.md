@@ -52,4 +52,6 @@ Archive has park kind arch land.
 
 Archive has park space require.
 
+Archive has park time require.
+
 Archive is did.
